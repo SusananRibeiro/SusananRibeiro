@@ -1,7 +1,7 @@
 # Olá! Eu sou a Susana Ribeiro 👋
 
-- 💜 Apaixonada por tecnologia e por desenvolver soluções
-- 💫 Estudando Angular para front-end, para assim me tornar desenvolvedora fullstack
+- ❤️ Apaixonada por tecnologia e por desenvolver soluções
+- 🚀 Estudando Angular para front-end, para assim me tornar desenvolvedora fullstack
 - 🎮 Gamer nas horas vagas
 - 😄 Pronouns: ela/dela
 
